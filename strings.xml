@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">BarkIT Project</string>
+    <string name="bulldog_image_description">An image of a bulldog</string>
+    <string name="paldo_image_description">An image of the Paldo logo</string>
+</resources>
